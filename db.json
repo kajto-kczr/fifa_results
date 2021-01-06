@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "nico_wins": 8,
+      "kajto_wins": 7,
+      "remis": 3,
+      "nico_goals": 56,
+      "kajto_goals": 48
+    },
+    {
+      "id": 2,
+      "nico_wins": 10,
+      "kajto_wins": 6,
+      "remis": 2,
+      "nico_goals": 65,
+      "kajto_goals": 37
+    },
+    {
+      "id": 3,
+      "nico_wins": 10,
+      "kajto_wins": 4,
+      "remis": 3,
+      "nico_goals": 50,
+      "kajto_goals": 40
+    }
+  ]
+}
